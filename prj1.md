@@ -1,0 +1,1 @@
+https://www.uni-bamberg.de/fileadmin/xai/studies/theses/2024/Master_Thesis_David_Tafler.pdf - работа исследует потенциал генеративного увеличения данных в встраиваемом пространстве базовых моделей компьютерного зрения
