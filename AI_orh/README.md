@@ -10,7 +10,7 @@
     `pip install customtkinter pillow ollama`
 
     `python AI_organaizer.py`
-5. Готово
+5. Готово (обработка картинок может занять несколько минут)
 
 ### Программа `AI_organaizer.py`:
 ```py
